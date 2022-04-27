@@ -1,0 +1,167 @@
+.iconNav{
+    color: #ffffff;
+    font-size: 25px;
+    
+}
+.mobilenav{
+    display: none;
+}
+.imgpro{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.textpro{
+    color: #ffffff;
+    margin: 10px;
+    
+}
+.sidebar{
+    z-index: 1;
+    top: 0;
+    text-align: center;
+    background-color: #ffffff;
+    position: fixed;
+    left: 0;
+    width: 70px;
+    height: calc(100% - 0%);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}.imglogo{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 30%;
+}
+.placee{
+    border-top-style:outset;
+    border-bottom-style: inset;
+  
+}
+.textbut{
+    font-size: 16px;
+    font-weight: bold;
+}
+.main{
+    margin-left: 80px;
+}
+.textmain{
+    margin: 10px;
+}
+.textmain1{
+    margin: 10px;
+    /* border-right-style: inset;
+    border-right-color: #134B8A; */
+}
+.cardcss{
+    margin: 20px;
+
+}
+.cardimg{
+    width: 60px;
+    height: 60px;
+    border-radius: 20%;
+}
+.rate{
+    color: #134B8A;
+}
+.cardimgex{
+    margin-top: 10px;
+    width: 140px;
+    height: 140px;
+    border-top-left-radius:  10%;
+    border-bottom-left-radius:  10%;
+}
+.cardimgex1{
+    margin-top: 10px;
+    width: 140px;
+    height: 140px;
+    
+}
+.cardimgex2{
+    margin-top: 10px;
+    width: 140px;
+    height: 140px;
+    border-top-right-radius:  10%;
+    border-bottom-right-radius:  10%;
+}
+.cardcssmo{
+    display: none;
+}
+@media screen and (max-width: 780px){
+    .desktopnav{
+        display: none;
+    }
+    .mobilenav{
+        display: inline;
+    }
+    .imgprobo{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-right: 20px;
+    }
+    .imglogobo{
+        width: 50px;
+        height: 50px;
+        margin-left: 10px;
+        border-radius: 30%;
+    }
+    .main{
+        margin-left: 10px;
+    }
+    .textmain{
+        margin: 10px;
+    }
+    .textmain1{
+        margin: 10px;
+    }
+    .cardcss{
+        display: none;
+    }
+    .cardcssmo{
+        display: inline;
+        margin: 20px;  
+    }
+    .cardMo{
+        margin: 20px;
+        width: 88%;
+        height: 70%;
+        background-color: #ffffff;
+        border-radius: 10px;
+    }
+    .cardimgMo{
+        width: 100%;
+        height: 100px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+    .ctMo{
+        margin: 10px;
+    }
+    .cardimgex{
+        margin: 15px;
+        width: 90%;
+        height: 200px;
+        border-radius: 10px;
+    }
+    .cardimgex1{
+        margin: 15px;
+        width: 90%;
+        height: 200px;
+        border-radius: 10px;
+    }
+    .cardimgex2{
+        margin: 15px;
+        width: 90%;
+        height: 200px;
+        border-radius: 10px;
+    }
+    .rate{
+        margin-top: 10px;
+        margin-left: 55px;
+        color: #134B8A;
+        font-weight: bold;
+    }
+}

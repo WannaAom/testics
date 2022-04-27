@@ -1,0 +1,123 @@
+.mainin{
+    margin: 10px;
+    margin-top: 30px;
+    width: 90vw;
+    height: 100%;
+    border-radius: 10px;
+    background-color: #C4D3E9;
+}
+.cardbig{
+    margin-left: 60px;
+    width: 700px;
+    height: 550px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+.imgcardbig{
+    width: 700px;
+    height: 250px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.cardbigna{
+    margin: 20px;
+}
+.rate1{
+    margin: 20px;
+    color: #134B8A;
+
+}
+.cardbigte{
+    margin-left: 20px;
+    font-weight: bold;
+}
+.cardimgg{
+    margin-left: 100px;
+    width: 500px;
+    height: 880px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+.cardimgg1{
+    margin-left: 25px;
+    
+}
+.imgCard{
+    width: 450px;
+    height: 270px;
+    border-top-left-radius:  10px;
+    border-top-right-radius: 10px;
+}
+.imgCard1{
+    width: 450px;
+    height: 270px;
+}
+.imgCard2{
+    width: 450px;
+    height: 270px;
+    border-bottom-left-radius:  10px;
+    border-bottom-right-radius: 10px;
+}
+.textimgC{
+    font-weight: bold;
+    margin-left: 20px;
+}
+.inforM{
+    display: none;
+}
+@media screen and (max-width: 780px){
+    .inforD{
+        display: none;
+    }
+    .inforM{
+        display: inline;
+    }
+    .aaa{
+       margin-left: 40px;
+    }
+    .cardbig1{
+       margin-top: 20px;
+       width: 88%;
+       height: 100%;
+       border-radius: 10px;
+       background-color: #ffffff;
+       margin-right: 50px;
+    }
+    .imgcardbig{
+        width: 100%;
+        height: 150px;
+    }
+    .cardbigna{
+        margin: 10px;
+    }
+    .rate1{
+        margin: 10px;
+        margin-left: 50%;
+        color: #134B8A;
+    
+    }
+    .cardbigte1{
+        margin: 10px;
+    }
+    .cardbigte{
+        margin: 10px;
+    }
+    .imgCard{
+        width: 90%;
+        height: 230px;
+    }
+    .imgCard1{
+        width: 90%;
+        height: 230px;
+    }
+    .imgCard2{
+        width: 90%;
+        height: 230px;
+        margin-bottom: 9px;
+    }
+    .textimgC{
+        color: #000000;
+    }
+}
