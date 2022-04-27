@@ -18,7 +18,7 @@ https://nodejs.org/en/
 
 ### 'npm install bootstrap'
 
-ติดตั้ง icon สำหรับใช้งาานในโปรเจค
+ติดตั้ง icon สำหรับใช้งานในโปรเจค
 
 ### 'npm install react-icons --save'
 
