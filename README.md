@@ -12,7 +12,7 @@ https://nodejs.org/en/
 
 ### 'npm start'
 
-ทำการติดติดตั้งเฟรมเวิร์คที่ใช้งานในโปรเจค
+ทำการติดตั้งเฟรมเวิร์คที่ใช้งานในโปรเจค
 
 ### 'npm install react-bootstrap bootstrap'
 
